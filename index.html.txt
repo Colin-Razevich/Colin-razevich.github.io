@@ -1,4 +1,4 @@
-<!DOCUMENT HTML>
+<!DOCTYPEHTML>
 <html>
 
 <body>
