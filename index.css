@@ -1,3 +1,7 @@
+li {
+	font-size: 20px;
+}
+
 .nav > li {
 	display: inline;
 }
